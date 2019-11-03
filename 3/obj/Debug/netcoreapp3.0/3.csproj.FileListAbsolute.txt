@@ -1,0 +1,11 @@
+D:\Work\Courses\Testovoe_zadanie\3\bin\Debug\netcoreapp3.0\3.exe
+D:\Work\Courses\Testovoe_zadanie\3\bin\Debug\netcoreapp3.0\3.deps.json
+D:\Work\Courses\Testovoe_zadanie\3\bin\Debug\netcoreapp3.0\3.runtimeconfig.json
+D:\Work\Courses\Testovoe_zadanie\3\bin\Debug\netcoreapp3.0\3.runtimeconfig.dev.json
+D:\Work\Courses\Testovoe_zadanie\3\bin\Debug\netcoreapp3.0\3.dll
+D:\Work\Courses\Testovoe_zadanie\3\bin\Debug\netcoreapp3.0\3.pdb
+D:\Work\Courses\Testovoe_zadanie\3\obj\Debug\netcoreapp3.0\3.csprojAssemblyReference.cache
+D:\Work\Courses\Testovoe_zadanie\3\obj\Debug\netcoreapp3.0\3.AssemblyInfoInputs.cache
+D:\Work\Courses\Testovoe_zadanie\3\obj\Debug\netcoreapp3.0\3.AssemblyInfo.cs
+D:\Work\Courses\Testovoe_zadanie\3\obj\Debug\netcoreapp3.0\3.dll
+D:\Work\Courses\Testovoe_zadanie\3\obj\Debug\netcoreapp3.0\3.pdb
