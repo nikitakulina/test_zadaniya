@@ -12,17 +12,18 @@ namespace _2
             Fibonachi(a, b, n);
         }
 
-        static int Fibonachi(int first, int second,int count)
+        static void Fibonachi(int first, int second,int count)
         {
+            Console.Write("{0} {1} ", first, second);
             for (int i = second; i < count; i++)
             {
-                if (i == first+second)
+                if (i == first + second)
                 {
                     Console.Write("{0} ", i);
-                    return Fibonachi(second, i, count);
+                    first = second;
+                    second = i;
                 }
             }
-            return 0;
         }
     }
 }
